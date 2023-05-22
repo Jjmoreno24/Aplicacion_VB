@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P02B_Inmediato/1.0.0": {
+        "runtime": {
+          "P02B_Inmediato.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P02B_Inmediato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
