@@ -50,6 +50,10 @@ El proyecto está organizado en varias fases, desde el análisis hasta la implem
 5. Capacitación del personal del gimnasio para el uso de la aplicación.
 6. Entrega final del proyecto y despliegue de la aplicación.
 
+### Desarrollo en Equipo
+<p align="justify">
+Este proyecto fue desarrollado en equipo como parte de un curso universitario en la Universidad Tecnológica de Panamá, en la Facultad de Ingeniería de Sistemas Computacionales. Agradecemos la colaboración y esfuerzo de cada integrante del equipo, así como el apoyo de nuestra profesora Anna Araba.
+</p>
 
 ## Operación
 ### Funcionamiento del Programa
@@ -95,6 +99,12 @@ La aplicación desarrollada para la gestión de un gimnasio permite realizar div
 ### Documentación y Soporte
 - **Documentación:** El proyecto cuenta con manuales de usuario y guías de instalación detalladas.
 - **Soporte:** Sistema de soporte para resolver dudas y problemas de los usuarios, garantizando una experiencia satisfactoria y correcta utilización de la aplicación.
+
+### Configuración de la Base de Datos
+Para el uso de la base de datos, asegúrate de reemplazar en el código de conexión:
+```csharp
+New SqlConnection("server='Nombre de su Servidor';database=POWERFITBD;Integrated Security=true")
+```
 
 ## 🔭 Vista - Ejecución
 
