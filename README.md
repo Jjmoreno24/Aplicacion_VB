@@ -107,7 +107,11 @@ New SqlConnection("server='Nombre de su Servidor';database=POWERFITBD;Integrated
 ```
 
 ## 🔭 Vista - Ejecución
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=q1ows47WVEA">
+    <img src="https://img.youtube.com/vi/q1ows47WVEA/0.jpg" alt="Video de PowerFit" width="600">
+  </a>
+</p>
 
 ---
 
