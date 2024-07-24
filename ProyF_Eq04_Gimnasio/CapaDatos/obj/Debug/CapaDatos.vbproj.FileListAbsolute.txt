@@ -1,0 +1,28 @@
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\bin\Debug\CapaEntidad.xml
+C:\Users\Priscila\Documents\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\bin\Debug\CapaEntidad.xml
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.vbproj.Up2Date
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\jm246\Documents\2023\Semestre I 2023\HERRAMIENTAS III\4. Actividades o Asignaciones\Proyectos\Proyecto Final\ProyF_Eq04_Gimnasios\ProyF_Eq04_Gimnasio\CapaDatos\obj\Debug\CapaDatos.pdb

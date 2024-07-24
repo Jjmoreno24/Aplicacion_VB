@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CapaPresentacion.My.MyApplication</StartupObject>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CapaPresentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CapaPresentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmActualizarEmpleados.Designer.vb">
+      <DependentUpon>frmActualizarEmpleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmActualizarEmpleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAplicacion.Designer.vb">
+      <DependentUpon>frmAplicacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAplicacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClientes.Designer.vb">
+      <DependentUpon>frmClientes.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCurso.Designer.vb">
+      <DependentUpon>frmCurso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCurso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmpleados.Designer.vb">
+      <DependentUpon>frmEmpleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmpleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGuia.Designer.vb">
+      <DependentUpon>frmGuia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGuia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuPresentacion.Designer.vb">
+      <DependentUpon>frmMenuPresentacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuPresentacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNuevoCliente.Designer.vb">
+      <DependentUpon>frmNuevoCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNuevoCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarCondiciones.Designer.vb">
+      <DependentUpon>frmRegistrarCondiciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarCondiciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarInvitado.Designer.vb">
+      <DependentUpon>frmRegistrarInvitado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarInvitado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVistaTablas.Designer.vb">
+      <DependentUpon>frmVistaTablas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVistaTablas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmActualizarEmpleados.resx">
+      <DependentUpon>frmActualizarEmpleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAplicacion.resx">
+      <DependentUpon>frmAplicacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClientes.resx">
+      <DependentUpon>frmClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCurso.resx">
+      <DependentUpon>frmCurso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmpleados.resx">
+      <DependentUpon>frmEmpleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGuia.resx">
+      <DependentUpon>frmGuia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuPresentacion.resx">
+      <DependentUpon>frmMenuPresentacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNuevoCliente.resx">
+      <DependentUpon>frmNuevoCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarCondiciones.resx">
+      <DependentUpon>frmRegistrarCondiciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarInvitado.resx">
+      <DependentUpon>frmRegistrarInvitado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVistaTablas.resx">
+      <DependentUpon>frmVistaTablas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.vbproj">
+      <Project>{b3771041-c647-402a-b013-78308b22248e}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.vbproj">
+      <Project>{beb240bf-e49f-4192-825c-03bbcabd4217}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

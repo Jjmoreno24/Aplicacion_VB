@@ -1,0 +1,540 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmactualizarempleados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmactualizarempleados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41489C-C4F2-4936-B9BC-1205F5F23D6D}|CapaDatos\\CapaDatos.vbproj|c:\\users\\jm246\\documents\\2023\\semestre i 2023\\herramientas iii\\4. actividades o asignaciones\\proyectos\\proyecto final\\proyf_eq04_gimnasios\\proyf_eq04_gimnasio\\capadatos\\conexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CC41489C-C4F2-4936-B9BC-1205F5F23D6D}|CapaDatos\\CapaDatos.vbproj|solutionrelative:capadatos\\conexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41489C-C4F2-4936-B9BC-1205F5F23D6D}|CapaDatos\\CapaDatos.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capadatos\\daocliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CC41489C-C4F2-4936-B9BC-1205F5F23D6D}|CapaDatos\\CapaDatos.vbproj|solutionrelative:capadatos\\daocliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41489C-C4F2-4936-B9BC-1205F5F23D6D}|CapaDatos\\CapaDatos.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capadatos\\daoempleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CC41489C-C4F2-4936-B9BC-1205F5F23D6D}|CapaDatos\\CapaDatos.vbproj|solutionrelative:capadatos\\daoempleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmmenupresentacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmmenupresentacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmguia.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmguia.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmregistrarcondiciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmregistrarcondiciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmaplicacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmaplicacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmregistrarinvitado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmregistrarinvitado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmvistatablas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmvistatablas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmmenupresentacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmmenupresentacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmregistrarinvitado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmregistrarinvitado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmnuevocliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmnuevocliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmnuevocliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmnuevocliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmvistatablas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmvistatablas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmregistrarcondiciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmregistrarcondiciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmguia.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmguia.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmempleados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmempleados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmempleados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmempleados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmcurso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmcurso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmcurso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmcurso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmaplicacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmaplicacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capapresentacion\\frmactualizarempleados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A4DEF640-029A-4DF5-BAD0-9F1552C3797D}|CapaPresentacion\\CapaPresentacion.vbproj|solutionrelative:capapresentacion\\frmactualizarempleados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB240BF-E49F-4192-825C-03BBCABD4217}|CapaNegocio\\CapaNegocio.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capanegocio\\cninvitado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BEB240BF-E49F-4192-825C-03BBCABD4217}|CapaNegocio\\CapaNegocio.vbproj|solutionrelative:capanegocio\\cninvitado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB240BF-E49F-4192-825C-03BBCABD4217}|CapaNegocio\\CapaNegocio.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capanegocio\\cnempleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BEB240BF-E49F-4192-825C-03BBCABD4217}|CapaNegocio\\CapaNegocio.vbproj|solutionrelative:capanegocio\\cnempleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB240BF-E49F-4192-825C-03BBCABD4217}|CapaNegocio\\CapaNegocio.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capanegocio\\cncliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BEB240BF-E49F-4192-825C-03BBCABD4217}|CapaNegocio\\CapaNegocio.vbproj|solutionrelative:capanegocio\\cncliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3771041-C647-402A-B013-78308B22248E}|CapaEntidad\\CapaEntidad.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capaentidad\\ceinvitado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B3771041-C647-402A-B013-78308B22248E}|CapaEntidad\\CapaEntidad.vbproj|solutionrelative:capaentidad\\ceinvitado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3771041-C647-402A-B013-78308B22248E}|CapaEntidad\\CapaEntidad.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capaentidad\\ceempleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B3771041-C647-402A-B013-78308B22248E}|CapaEntidad\\CapaEntidad.vbproj|solutionrelative:capaentidad\\ceempleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3771041-C647-402A-B013-78308B22248E}|CapaEntidad\\CapaEntidad.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capaentidad\\cecondicion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B3771041-C647-402A-B013-78308B22248E}|CapaEntidad\\CapaEntidad.vbproj|solutionrelative:capaentidad\\cecondicion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3771041-C647-402A-B013-78308B22248E}|CapaEntidad\\CapaEntidad.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capaentidad\\cecliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B3771041-C647-402A-B013-78308B22248E}|CapaEntidad\\CapaEntidad.vbproj|solutionrelative:capaentidad\\cecliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41489C-C4F2-4936-B9BC-1205F5F23D6D}|CapaDatos\\CapaDatos.vbproj|C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\capadatos\\daoinvitado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CC41489C-C4F2-4936-B9BC-1205F5F23D6D}|CapaDatos\\CapaDatos.vbproj|solutionrelative:capadatos\\daoinvitado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmVistaTablas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmVistaTablas.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmVistaTablas.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmVistaTablas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmVistaTablas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmActualizarEmpleados.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmActualizarEmpleados.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmActualizarEmpleados.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmActualizarEmpleados.vb [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmActualizarEmpleados.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.638Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmAplicacion.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmAplicacion.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmAplicacion.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmAplicacion.vb [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmAplicacion.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmRegistrarCondiciones.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmRegistrarCondiciones.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmRegistrarCondiciones.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmRegistrarCondiciones.vb [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmRegistrarCondiciones.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmGuia.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmGuia.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmGuia.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmGuia.vb [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmGuia.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMenuPresentacion.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmMenuPresentacion.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmMenuPresentacion.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmMenuPresentacion.vb",
+              "RelativeToolTip": "CapaPresentacion\\frmMenuPresentacion.vb",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMenuPresentacion.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmMenuPresentacion.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmMenuPresentacion.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmMenuPresentacion.vb [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmMenuPresentacion.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmRegistrarInvitado.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmRegistrarInvitado.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmRegistrarInvitado.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmRegistrarInvitado.vb",
+              "RelativeToolTip": "CapaPresentacion\\frmRegistrarInvitado.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmRegistrarInvitado.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmRegistrarInvitado.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmRegistrarInvitado.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmRegistrarInvitado.vb [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmRegistrarInvitado.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmNuevoCliente.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmNuevoCliente.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmNuevoCliente.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmNuevoCliente.vb",
+              "RelativeToolTip": "CapaPresentacion\\frmNuevoCliente.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-22T23:20:48.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmNuevoCliente.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmNuevoCliente.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmNuevoCliente.vb",
+              "ToolTip": "C:\\Users\\Priscila\\Documents\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmNuevoCliente.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Priscila\\Documents\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmNuevoCliente.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-22T23:20:48.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmClientes.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmClientes.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmClientes.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmClientes.vb",
+              "RelativeToolTip": "CapaPresentacion\\frmClientes.vb",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-22T23:20:48.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmClientes.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmClientes.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmClientes.vb",
+              "ToolTip": "C:\\Users\\Priscila\\Documents\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmClientes.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Priscila\\Documents\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmClientes.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-22T23:20:48.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmVistaTablas.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmVistaTablas.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmVistaTablas.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmVistaTablas.vb",
+              "RelativeToolTip": "CapaPresentacion\\frmVistaTablas.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmRegistrarCondiciones.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmRegistrarCondiciones.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmRegistrarCondiciones.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmRegistrarCondiciones.vb",
+              "RelativeToolTip": "CapaPresentacion\\frmRegistrarCondiciones.vb",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmGuia.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmGuia.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmGuia.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmGuia.vb",
+              "RelativeToolTip": "CapaPresentacion\\frmGuia.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-22T23:20:48.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmEmpleados.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmEmpleados.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmEmpleados.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmEmpleados.vb",
+              "RelativeToolTip": "CapaPresentacion\\frmEmpleados.vb",
+              "ViewState": "AQIAADwAAAAAAAAAAAAUwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-22T23:20:48.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmEmpleados.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmEmpleados.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmEmpleados.vb",
+              "ToolTip": "C:\\Users\\Priscila\\Documents\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmEmpleados.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Priscila\\Documents\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmEmpleados.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-22T23:20:48.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmCurso.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmCurso.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCurso.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmCurso.vb",
+              "RelativeToolTip": "CapaPresentacion\\frmCurso.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-22T23:20:48.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmCurso.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmCurso.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCurso.vb",
+              "ToolTip": "C:\\Users\\Priscila\\Documents\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmCurso.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Priscila\\Documents\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmCurso.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-22T23:20:48.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmAplicacion.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmAplicacion.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmAplicacion.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmAplicacion.vb",
+              "RelativeToolTip": "CapaPresentacion\\frmAplicacion.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmActualizarEmpleados.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmActualizarEmpleados.vb",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmActualizarEmpleados.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaPresentacion\\frmActualizarEmpleados.vb",
+              "RelativeToolTip": "CapaPresentacion\\frmActualizarEmpleados.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CNInvitado.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaNegocio\\CNInvitado.vb",
+              "RelativeDocumentMoniker": "CapaNegocio\\CNInvitado.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaNegocio\\CNInvitado.vb",
+              "RelativeToolTip": "CapaNegocio\\CNInvitado.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CNEmpleado.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaNegocio\\CNEmpleado.vb",
+              "RelativeDocumentMoniker": "CapaNegocio\\CNEmpleado.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaNegocio\\CNEmpleado.vb",
+              "RelativeToolTip": "CapaNegocio\\CNEmpleado.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CNCliente.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaNegocio\\CNCliente.vb",
+              "RelativeDocumentMoniker": "CapaNegocio\\CNCliente.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaNegocio\\CNCliente.vb",
+              "RelativeToolTip": "CapaNegocio\\CNCliente.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CEInvitado.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaEntidad\\CEInvitado.vb",
+              "RelativeDocumentMoniker": "CapaEntidad\\CEInvitado.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaEntidad\\CEInvitado.vb",
+              "RelativeToolTip": "CapaEntidad\\CEInvitado.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CEEmpleado.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaEntidad\\CEEmpleado.vb",
+              "RelativeDocumentMoniker": "CapaEntidad\\CEEmpleado.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaEntidad\\CEEmpleado.vb",
+              "RelativeToolTip": "CapaEntidad\\CEEmpleado.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CECondicion.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaEntidad\\CECondicion.vb",
+              "RelativeDocumentMoniker": "CapaEntidad\\CECondicion.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaEntidad\\CECondicion.vb",
+              "RelativeToolTip": "CapaEntidad\\CECondicion.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CECliente.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaEntidad\\CECliente.vb",
+              "RelativeDocumentMoniker": "CapaEntidad\\CECliente.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaEntidad\\CECliente.vb",
+              "RelativeToolTip": "CapaEntidad\\CECliente.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DAOInvitado.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaDatos\\DAOInvitado.vb",
+              "RelativeDocumentMoniker": "CapaDatos\\DAOInvitado.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaDatos\\DAOInvitado.vb",
+              "RelativeToolTip": "CapaDatos\\DAOInvitado.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAOEmpleado.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaDatos\\DAOEmpleado.vb",
+              "RelativeDocumentMoniker": "CapaDatos\\DAOEmpleado.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaDatos\\DAOEmpleado.vb",
+              "RelativeToolTip": "CapaDatos\\DAOEmpleado.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAOCliente.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaDatos\\DAOCliente.vb",
+              "RelativeDocumentMoniker": "CapaDatos\\DAOCliente.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaDatos\\DAOCliente.vb",
+              "RelativeToolTip": "CapaDatos\\DAOCliente.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.vb",
+              "DocumentMoniker": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaDatos\\Conexion.vb",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.vb",
+              "ToolTip": "C:\\Users\\jm246\\Documents\\2023\\Semestre I 2023\\HERRAMIENTAS III\\4. Actividades o Asignaciones\\Proyectos\\Proyecto Final\\ProyF_Eq04_Gimnasios\\ProyF_Eq04_Gimnasio\\CapaDatos\\Conexion.vb",
+              "RelativeToolTip": "CapaDatos\\Conexion.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:20:48.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
